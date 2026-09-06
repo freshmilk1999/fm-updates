@@ -1,0 +1,12 @@
+{
+  "versions": [
+    {
+      "version": "2.7.1",
+      "released": "2026-09-06",
+      "notes": "*Bug fixes,\n*Feedback menu - so you can say whatever you want to us, we're used to it at this point XD",
+      "url": "https://github.com/freshmilk1999/fm-updates/releases/download/v2.7.1/FRESHMILK.FM.exe",
+      "sha256": "b67dc00a96d57ecd2c16909423b2ddaf47c100eddb0935e4ff0aee2f15519e81",
+      "size": 34828381
+    }
+  ]
+}
