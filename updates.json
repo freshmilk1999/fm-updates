@@ -1,6 +1,14 @@
 {
   "versions": [
     {
+      "version": "2.7.6",
+      "released": "2026-09-07",
+      "notes": "*Bug fixes",
+      "url": "https://github.com/freshmilk1999/fm-updates/releases/download/v2.7.6/FRESHMILK.FM.exe",
+      "sha256": "657cb9c8b861fb62374ed8f0064cb864b371774e2a10c70af72f16dcb36d586c",
+      "size": 34830595
+    },
+    {
       "version": "2.7.5",
       "released": "2026-09-07",
       "notes": "*Fixed fonts bug issues",
