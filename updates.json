@@ -1,6 +1,17 @@
 {
   "versions": [
     {
+      "version": "2.8.2",
+      "released": "2026-09-08",
+      "notes": "*Fixes the app icon not changing on your desktop shortcut. If your Desktop is backed up by OneDrive, the app was looking for the shortcut in the old location and never finding it. The tray and taskbar always worked",
+      "url": "https://github.com/freshmilk1999/fm-updates/releases/download/v2.8.2/OutBeat.exe",
+      "sha256": "1bf6f74406d201544cb907c001507448463a810dceb200a02b659f8c2c6119f1",
+      "size": 35327423,
+      "setupUrl": "https://github.com/freshmilk1999/fm-updates/releases/download/v2.8.2/OutBeat.Setup.exe",
+      "setupSha256": "6e29647d7f89dc090791e9e9e4947ace1e38c67794e5357b8f0430e7748557fd",
+      "setupSize": 37082872
+    },
+    {
       "version": "2.8.1",
       "released": "2026-09-08",
       "notes": "*Fixes the message that appeared after updating. It gave the wrong advice to anyone running OutBeat as a loose .exe rather than an installed one: your design and settings live in the folder next to that file, and the installer does not move them across. Keep that folder\n*The message now shows you exactly which folder holds your work, and can be dismissed",
