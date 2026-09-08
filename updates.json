@@ -1,6 +1,16 @@
 {
   "versions": [
-  
+    {
+      "version": "2.8.1",
+      "released": "2026-09-08",
+      "notes": "*Fixes the message that appeared after updating. It gave the wrong advice to anyone running OutBeat as a loose .exe rather than an installed one: your design and settings live in the folder next to that file, and the installer does not move them across. Keep that folder\n*The message now shows you exactly which folder holds your work, and can be dismissed",
+      "url": "https://github.com/freshmilk1999/fm-updates/releases/download/v2.8.1/OutBeat.exe",
+      "sha256": "b43167e7190db96d93f3e2f81d4277bfeac166c09d409617bc3a040dea89bda7",
+      "size": 35326495,
+      "setupUrl": "https://github.com/freshmilk1999/fm-updates/releases/download/v2.8.1/OutBeat.Setup.exe",
+      "setupSha256": "588d8b2db08f170bc5601c4805c4ced96ed770b7383847b67423cce6ed38c8c8",
+      "setupSize": 37081209
+    },
     {
       "version": "2.7.9",
       "released": "2026-09-08",
