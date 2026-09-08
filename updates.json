@@ -1,6 +1,14 @@
 {
   "versions": [
     {
+      "version": "2.7.9",
+      "released": "2026-09-08",
+      "notes": "*Turned items can be moved again instead of sticking\n*Resizing a turned item follows your cursor properly\n*No more empty space around the cassette artwork",
+      "url": "https://github.com/freshmilk1999/fm-updates/releases/download/v2.7.9/FRESHMILK.FM.exe",
+      "sha256": "bd4c746932690ede17a6ca4a2ab38b0ff68d03e13b4a3e2eb3e3c8ff0ac7772e",
+      "size": 34832012
+    },
+    {
       "version": "2.7.6",
       "released": "2026-09-07",
       "notes": "*Bug fixes",
