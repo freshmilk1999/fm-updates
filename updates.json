@@ -1,6 +1,17 @@
 {
   "versions": [
     {
+      "version": "2.8.0",
+      "released": "2026-09-08",
+      "notes": "*FRESHMILK FM is now OutBeat - same app, new name and logo\n*A quick tour on the front page shows you around when you open the app. The \"How it works\" link brings it back any time\n*Pick your own app icon under Theme. Eight to choose from, and it changes the tray, the taskbar and your shortcuts\n*Presets: the editing panel now sits under the list, and every preset shows a picture of its own design\n*Right after this update a message asks you to finish the move to the new name. Press the button and it does the rest - OutBeat closes while the installer runs, then starts again with everything renamed. Your design, presets, fonts, theme and sign-ins are all kept, and there is nothing to delete or move first",
+      "url": "https://github.com/freshmilk1999/fm-updates/releases/download/v2.8.0/OutBeat.exe",
+      "sha256": "3603349003f0cc8e8b0ba9fdb9355ce95883c5a13db721a82629a564bf20c443",
+      "size": 35325916,
+      "setupUrl": "https://github.com/freshmilk1999/fm-updates/releases/download/v2.8.0/OutBeat.Setup.exe",
+      "setupSha256": "42482ba00b8a8727d49ce89ab38587550af42979cc9d62f3694056ee79ddc68d",
+      "setupSize": 37081835
+    },
+    {
       "version": "2.7.9",
       "released": "2026-09-08",
       "notes": "*Turned items can be moved again instead of sticking\n*Resizing a turned item follows your cursor properly\n*No more empty space around the cassette artwork",
