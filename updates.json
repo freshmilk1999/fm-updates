@@ -1,6 +1,17 @@
 {
   "versions": [
     {
+      "version": "2.8.5",
+      "released": "2026-09-10",
+      "notes": "OutBeat 2.8.5\n\nLive widgets are taking a short break.\n\nWe shipped them in 2.8.4 and we're not happy with them yet — some\nof it works, some of it changes shape depending on where you're\nstreaming from, and we'd rather fix that than have you build a\nsetup twice. Open LIVE WIDGETS and you'll get a note and a way\nback home until they're ready.\n\nNothing else changes. Your music overlay, presets, themes, browser\nsources and everything you've already arranged work exactly as\nbefore.\n\nIf you set up live widgets in 2.8.4, your browser sources keep\nrunning — it's only the arranging that's closed for now.\n\nSorry for the back-and-forth. We'd rather do this than leave you\nbuilding on something that's about to move.",
+      "url": "https://github.com/freshmilk1999/fm-updates/releases/download/v2.8.5/OutBeat.exe",
+      "sha256": "c510090920ce3f6c34de06bada8618ee754d07dc761a4fcaaefcb5e10a9f07d0",
+      "size": 40801970,
+      "setupUrl": "https://github.com/freshmilk1999/fm-updates/releases/download/v2.8.5/OutBeat.Setup.exe",
+      "setupSha256": "ef2ee78e412676afb8552926a35730acc68989671bd7b17cefde4377d004bd3f",
+      "setupSize": 42534531
+    },
+    {
       "version": "2.8.4",
       "released": "2026-09-09",
       "notes": "OutBeat 2.8.4\n\nTikTok is here.\nOpen LIVE WIDGETS, choose TikTok, type your @handle — that's it.\nNo sign-in, no key, nothing to sign up for anywhere. While you're\nlive you'll get alerts for follows, joins, gifts (it names the gift)\nand shares.\n\nA chat widget.\nYour chat on your overlay, as a layer you can drag and size like\nanything else. Twitch needs no sign-in at all, just your channel\nname. Pick the plain look or the panel, choose how many lines show\nat once, and set the fonts and colours for names and messages\nseparately.\n\nLIVE WIDGETS works differently now.\nYou start by choosing where you stream from — Twitch, TikTok or\nYouTube. Connecting is once only, and the button tells you whether\nyou're connected. There's an ON AIR switch: flip it off and nothing\nshows up on your stream.\n\nAlerts are added one at a time.\n\"+ Follow alert\", \"+ Gift alert\", and so on. Each one gets its own\nstage with only that alert on it, and its own background. Chat and\nthe follower goal are yours to add if you want them, so they don't\nuse up alert slots. Five alerts on TikTok, ten on Twitch.\n\nYouTube isn't ready yet — it's there so you can see it coming.",
