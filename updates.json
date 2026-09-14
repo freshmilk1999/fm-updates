@@ -1,6 +1,14 @@
 {
   "versions": [
     {
+      "version": "2.8.7",
+      "released": "2026-09-15",
+      "notes": "OutBeat 2.8.7\n\nLive widgets are back and finished — alerts, the follower\ngoal and chat, on Twitch and TikTok.\n\n*Nine looks for the music widget, nine for the album art\n*Every piece of them takes its own colour\n*Portrait canvas, 1080 x 1920, for streams that go out upright\n*Drag a box to pick several layers and move them at once\n*A receipt look for the chat\n*JetBrains Mono, Chakra Petch and Silkscreen come with the app\n*Send a screenshot with your feedback\n*The paper theme reads properly now",
+      "url": "https://github.com/freshmilk1999/fm-updates/releases/download/v2.8.7/OutBeat.exe",
+      "sha256": "92ca7dd13170bb1466a251e095eeeb1472c9b41ef2c9687658a18df10035647c",
+      "size": 40948762
+    },
+    {
       "version": "2.8.5",
       "released": "2026-09-10",
       "notes": "OutBeat 2.8.5\n\nLive widgets are taking a short break.\n\nWe shipped them in 2.8.4 and we're not happy with them yet — some\nof it works, some of it changes shape depending on where you're\nstreaming from, and we'd rather fix that than have you build a\nsetup twice. Open LIVE WIDGETS and you'll get a note and a way\nback home until they're ready.\n\nNothing else changes. Your music overlay, presets, themes, browser\nsources and everything you've already arranged work exactly as\nbefore.\n\nIf you set up live widgets in 2.8.4, your browser sources keep\nrunning — it's only the arranging that's closed for now.\n\nSorry for the back-and-forth. We'd rather do this than leave you\nbuilding on something that's about to move.",
