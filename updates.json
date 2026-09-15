@@ -1,6 +1,14 @@
 {
   "versions": [
     {
+      "version": "2.8.8",
+      "released": "2026-09-15",
+      "notes": "OutBeat 2.8.8\n\nThe editor got a tidy-up. Same app, much less hunting.\n\n*Settings now fold into groups — Text, Fill, Style, Place. One opens\n at a time, and a closed one tells you what it's set to\n*Album art, the progress bar, the equalizer and the buttons get\n Width and Height sliders instead of one px box\n*Every colour swatch says what it paints — Rewind, Play, Next, Key,\n Glyph, Record, Groove, and the rest\n*Fixed: the Fill row was quietly taking the swatches that belonged to\n other settings, which is why Middle key was an empty box\n*Designs that paint their own buttons no longer offer colours that do\n nothing — they say so instead\n*Fill, Outline, Shadow and Gradient are buttons that light up now,\n not tiny switches\n*The Theme menu is four short lines, and picking an app icon is a\n dropdown rather than a wall of tiles\n*Text on the default theme reads properly again — the greys had been\n missing on that one skin",
+      "url": "https://github.com/freshmilk1999/fm-updates/releases/download/v2.8.8/OutBeat.exe",
+      "sha256": "2b5a0bb6cb665b7e48ea90b634aaec499399710450b102a92382fac131ade664",
+      "size": 40967761
+    },
+    {
       "version": "2.8.7",
       "released": "2026-09-15",
       "notes": "OutBeat 2.8.8\n\nThe editor got a tidy-up. Same app, much less hunting.\n\n*Settings now fold into groups — Text, Fill, Style, Place. One opens\n at a time, and a closed one tells you what it's set to\n*Album art, the progress bar, the equalizer and the buttons get\n Width and Height sliders instead of one px box\n*Every colour swatch says what it paints — Rewind, Play, Next, Key,\n Glyph, Record, Groove, and the rest\n*Fixed: the Fill row was quietly taking the swatches that belonged to\n other settings, which is why Middle key was an empty box\n*Designs that paint their own buttons no longer offer colours that do\n nothing — they say so instead\n*Fill, Outline, Shadow and Gradient are buttons that light up now,\n not tiny switches\n*The Theme menu is four short lines, and picking an app icon is a\n dropdown rather than a wall of tiles\n*Text on the default theme reads properly again — the greys had been\n missing on that one skin",
