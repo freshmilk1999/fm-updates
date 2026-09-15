@@ -1,6 +1,14 @@
 {
   "versions": [
     {
+      "version": "2.8.9",
+      "released": "2026-09-15",
+      "notes": "OutBeat 2.8.9 ✨\n\nYou can finally test alerts properly — Test now reaches your\nbrowser source, so you can check OBS works without going live.\n\nAlso: Test fires the alert you actually picked, Stop actually\nstops, and alert backgrounds no longer go missing.\n\nThe editor's tidier too — settings in groups, Width/Height\nsliders, and every colour swatch finally has a label.\n\nUpdate from inside the app 💛",
+      "url": "https://github.com/freshmilk1999/fm-updates/releases/download/v2.8.9/OutBeat.exe",
+      "sha256": "81d794d63d26a43064f3c985fb9bad937bc1416d548c5011431d5e64dfbe2f50",
+      "size": 40971383
+    },
+    {
       "version": "2.8.8",
       "released": "2026-09-15",
       "notes": "OutBeat 2.8.8 ✨\n\nLive alerts fixed: Test now shows the alert you actually picked, Stop actually stops, and alert backgrounds no longer go missing.\n\nThe editor's tidier too — settings in groups, Width/Height sliders, and every colour swatch finally has a label.\n\nTip: if alerts aren't showing, check the ON AIR switch.\n\nUpdate from inside the app.",
