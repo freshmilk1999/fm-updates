@@ -3,10 +3,10 @@
     {
       "version": "2.8.7",
       "released": "2026-09-15",
-      "notes": "OutBeat 2.8.7\n\nLive widgets are back and finished — alerts, the follower\ngoal and chat, on Twitch and TikTok.\n\n*Nine looks for the music widget, nine for the album art\n*Every piece of them takes its own colour\n*Portrait canvas, 1080 x 1920, for streams that go out upright\n*Drag a box to pick several layers and move them at once\n*A receipt look for the chat\n*JetBrains Mono, Chakra Petch and Silkscreen come with the app\n*Send a screenshot with your feedback\n*The paper theme reads properly now",
+      "notes": "OutBeat 2.8.8\n\nThe editor got a tidy-up. Same app, much less hunting.\n\n*Settings now fold into groups — Text, Fill, Style, Place. One opens\n at a time, and a closed one tells you what it's set to\n*Album art, the progress bar, the equalizer and the buttons get\n Width and Height sliders instead of one px box\n*Every colour swatch says what it paints — Rewind, Play, Next, Key,\n Glyph, Record, Groove, and the rest\n*Fixed: the Fill row was quietly taking the swatches that belonged to\n other settings, which is why Middle key was an empty box\n*Designs that paint their own buttons no longer offer colours that do\n nothing — they say so instead\n*Fill, Outline, Shadow and Gradient are buttons that light up now,\n not tiny switches\n*The Theme menu is four short lines, and picking an app icon is a\n dropdown rather than a wall of tiles\n*Text on the default theme reads properly again — the greys had been\n missing on that one skin",
       "url": "https://github.com/freshmilk1999/fm-updates/releases/download/v2.8.7/OutBeat.exe",
-      "sha256": "92ca7dd13170bb1466a251e095eeeb1472c9b41ef2c9687658a18df10035647c",
-      "size": 40948762
+      "sha256": "2b5a0bb6cb665b7e48ea90b634aaec499399710450b102a92382fac131ade664",
+      "size": 40967761
     },
     {
       "version": "2.8.5",
