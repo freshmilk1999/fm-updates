@@ -3,10 +3,10 @@
     {
       "version": "2.8.8",
       "released": "2026-09-15",
-      "notes": "OutBeat 2.8.8\n\nThe editor got a tidy-up. Same app, much less hunting.\n\n*Settings now fold into groups — Text, Fill, Style, Place. One opens\n at a time, and a closed one tells you what it's set to\n*Album art, the progress bar, the equalizer and the buttons get\n Width and Height sliders instead of one px box\n*Every colour swatch says what it paints — Rewind, Play, Next, Key,\n Glyph, Record, Groove, and the rest\n*Fixed: the Fill row was quietly taking the swatches that belonged to\n other settings, which is why Middle key was an empty box\n*Designs that paint their own buttons no longer offer colours that do\n nothing — they say so instead\n*Fill, Outline, Shadow and Gradient are buttons that light up now,\n not tiny switches\n*The Theme menu is four short lines, and picking an app icon is a\n dropdown rather than a wall of tiles\n*Text on the default theme reads properly again — the greys had been\n missing on that one skin",
+      "notes": "OutBeat 2.8.8 ✨\n\nLive alerts fixed: Test now shows the alert you actually picked, Stop actually stops, and alert backgrounds no longer go missing.\n\nThe editor's tidier too — settings in groups, Width/Height sliders, and every colour swatch finally has a label.\n\nTip: if alerts aren't showing, check the ON AIR switch.\n\nUpdate from inside the app.",
       "url": "https://github.com/freshmilk1999/fm-updates/releases/download/v2.8.8/OutBeat.exe",
-      "sha256": "2b5a0bb6cb665b7e48ea90b634aaec499399710450b102a92382fac131ade664",
-      "size": 40967761
+      "sha256": "abf69f3d798bc236f2923ea65e06da7fce1df3e2c031b41dacac15d47d0274a3",
+      "size": 40971265
     },
     {
       "version": "2.8.7",
