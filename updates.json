@@ -1,6 +1,14 @@
 {
   "versions": [
     {
+      "version": "2.9.10",
+      "released": "2026-09-17",
+      "notes": "Hey there! Here is the friendly, bite-sized breakdown of everything new and exciting in OutBeat 2.8.9:\n\n---\n\n## 🕹️ Fun New Chat Stuff\n\n* **Arcade Chat Style:** Give your chat a retro vibe with pixel-cut speech bubbles, custom colors (solid, gradient, or moving!), and an adorable talking robot companion that flaps its mouth while messages play out.\n* **Smart Bubbles:** Set your chat boxes to automatically fade out one by one after 4 to 10 seconds, and choose how they pop or slam onto the screen.\n\n## 🎬 Stage & Design Upgrades\n\n* **Add Media & Screen Captures:** Drop in your favorite logos, GIFs, videos, or your screen capture as layers that you can freely move, resize, and crop.\n* **Precise Tweaks:** Use your arrow keys to nudge elements by 1px (or 10px with Shift), and right-click any layer to quickly center it, fit it to the screen, or rename it.\n* **Easy Sharing:** Sharing your layouts is a breeze now! Exports automatically save as real files in a brand-new **OutBeat Presets** folder on your Desktop—just drop shared files right in there to load them up.\n\n## 🐛 Helpful Fixes & Improvements\n\n* **Stream Sync Fixed:** Screen links on streaming PCs now properly show your live chat, alerts, and follower goals.\n* **Instant Fonts:** New fonts show up right away without needing to restart the app.\n* **Better Layer Control:** Locked layers won't accidentally block things underneath them anymore, and selection outlines always stay visible.\n* **Happy CPU:** The app uses way less CPU while you game by pausing stage previews when you tab away.\n\n---\n\nWhat feature are you most excited to try out first?",
+      "url": "https://github.com/freshmilk1999/fm-updates/releases/download/v2.9.10/OutBeat.exe",
+      "sha256": "4281c262a79c76c6e447621697053a3ef0129d377f7e80a127417ccccd5c559b",
+      "size": 41007393
+    },
+    {
       "version": "2.8.9",
       "released": "2026-09-15",
       "notes": "OutBeat 2.8.9 ✨\n\nYou can finally test alerts properly — Test now reaches your\nbrowser source, so you can check OBS works without going live.\n\nAlso: Test fires the alert you actually picked, Stop actually\nstops, and alert backgrounds no longer go missing.\n\nThe editor's tidier too — settings in groups, Width/Height\nsliders, and every colour swatch finally has a label.\n\nUpdate from inside the app 💛",
