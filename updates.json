@@ -1,6 +1,14 @@
 {
   "versions": [
     {
+      "version": "2.10.2",
+      "released": "2026-09-22",
+      "notes": "OutBeat 2.10.2 ✨\n\n🎨 Each page can be its own shape now — wide or upright — and turning one keeps your design instead of piling it up\n💬 New Brutal comment style, timestamps, and how many comments show and how long they stay\n👀 Comments show on the Stage while you arrange them\n🖱️ Eight resize dots on every layer, drag layers to set what's on top, Delete removes one\n📄 Page 1 can be removed like any other\n🖼️ Sharper album art when your player only hands over a small picture\n🐛 Fixed: the screen link drew pages you'd removed, and doubled your comments\n🐛 Fixed: History in the Update menu, and crowded panels on a small window",
+      "url": "https://github.com/freshmilk1999/fm-updates/releases/download/v2.10.2/OutBeat.exe",
+      "sha256": "504af9bed730b396da64b11673f09c351867bd1749b07b619125c56169eb0617",
+      "size": 42027077
+    },
+    {
       "version": "2.10.1",
       "released": "2026-09-21",
       "notes": "*Bug Fixes",
