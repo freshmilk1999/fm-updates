@@ -1,6 +1,14 @@
 {
   "versions": [
     {
+      "version": "2.12.0",
+      "released": "2026-09-28",
+      "notes": "OutBeat 2.12.0 — what's new\n\nNine chat styles. Your chat can now wear Sweetheart, Sticky note, Candy, Goth, Neon, Arena, Skirmish, Pixel or Bubble. Each has its own arrivals, text styles, effects and colours, and cards shrink to fit whatever box you give them.\n\nGame events. A new page next to Live widgets. Pick League of Legends, CS2 or Dota 2 and add an alert for kills, multikills, objectives, rounds, victory and more. Alerts come in any of the nine styles with a rolling counter, or in Custom with your own words, counter and background. There's a kills, deaths and assists scoreboard too. League needs no setup; CS2 and Dota 2 need one small file the app gives you.\n\nBuilt-in live alerts. Follows, joins, gifts, shares, subs, cheers and raids can use the nine styles as well, with your own colours and font.\n\nEditor. Undo, redo and Reset now work per page. Every box has eight resize handles, pages can be portrait, and the Stage rail has a play button so you can preview a page's alerts.\n\nSmoother. The overlay runs at 60 fps, TikTok and Twitch reconnect more reliably, and alerts stay in place instead of sliding away.\n\nFound something odd? Use the chat bubble on the front page to tell us.",
+      "url": "https://github.com/freshmilk1999/fm-updates/releases/download/v2.12.0/OutBeat.exe",
+      "sha256": "152b4a841ff16abecae63ff34a7415ecf52fcf51ae8200cbd84b94287ac94470",
+      "size": 42240115
+    },
+    {
       "version": "2.10.2",
       "released": "2026-09-22",
       "notes": "OutBeat 2.10.2 ✨\n\n🎨 Each page can be its own shape now — wide or upright — and turning one keeps your design instead of piling it up\n💬 New Brutal comment style, timestamps, and how many comments show and how long they stay\n👀 Comments show on the Stage while you arrange them\n🖱️ Eight resize dots on every layer, drag layers to set what's on top, Delete removes one\n📄 Page 1 can be removed like any other\n🖼️ Sharper album art when your player only hands over a small picture\n🐛 Fixed: the screen link drew pages you'd removed, and doubled your comments\n🐛 Fixed: History in the Update menu, and crowded panels on a small window",
